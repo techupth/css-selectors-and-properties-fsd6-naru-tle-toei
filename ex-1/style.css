@@ -1,1 +1,21 @@
-/* start coding here */
+#username {
+  height: 50px;
+  width: 250px;
+  border-radius: 3px;
+}
+#email {
+  height: 50px;
+  width: 250px;
+  border-radius: 3px;
+}
+#password {
+  height: 50px;
+  width: 250px;
+  border-radius: 3px;
+}
+button [type="submit"] {
+  width: 120px;
+  height: 36px;
+  color: lightgray;
+  background-color: khaki;
+}
